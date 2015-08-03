@@ -22,11 +22,11 @@ requirement. For example, plugin
 "OCCReader_for_ParaView_4.3.1_Ubuntu_14.04_64bit" requires ParaView_4.3.1.
 
 -> Unzip the ParaView bindary package, and also the OCCReader plugin file. Copy
-all the files from OCCReader folder to the "lib" folder of ParaView binary. 
+all the files from OCCReader folder to the "lib/paraview-*.*/" folder of ParaView binary. 
 
 ->You need to load this library manually for the first time. In ParaView menu
 Tools->Manage Plugins, click "Load New" to load the "libOCCReader.so" in the
-"lib" folder, and select "Auto Load" to load it automatically.
+"lib/paraview-*.*/" folder, and select "Auto Load" to load it automatically.
 
 
 *******************************************************************************
