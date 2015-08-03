@@ -73,32 +73,3 @@ Yuefeng Qiu (Yuefeng.qiu@kit.edu).
    
 Have fun playing with it!   :)
    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-For any questions related to the use of this software/library you may contact
-Ulrich Fischer(ulrich.fischer@kit.edu) or, for technical assistance, contact
-Yuefeng Qiu (Yuefeng.qiu@kit.edu).
-
-Have fun playing with it! :)
-
-
